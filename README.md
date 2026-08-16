@@ -13,13 +13,16 @@ AURA AI is a modern, responsive SaaS landing page concept for an AI-powered prod
 
 Add your final project screenshots here.
 
+## 📸 Output Preview
+
+Add your final project screenshots here.
+
 ```text
 screenshots/
 ├── desktop-home.png
 ├── desktop-features.png
 ├── desktop-pricing.png
 └── mobile-view.png
-```
 
 Example Markdown for the screenshots:
 
